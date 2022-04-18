@@ -1,0 +1,10 @@
+venv/
+.idea/
+__pycache__/
+db.sqlite3
+settings_dev.py
+static/
+media/
+mate.sql
+mate/settings_prod.py
+mate/.env
